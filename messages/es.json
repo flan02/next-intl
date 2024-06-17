@@ -1,0 +1,8 @@
+{
+  "Index": {
+    "welcome": "Bienvenido a mi curriculum vitae multilenguage!",
+    "name": "mi nombre es {firstName}",
+    "person": "Persona: {firstName} {lastName} {age}",
+    "age": "Edad: {age}"
+  }
+}
