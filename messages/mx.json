@@ -1,0 +1,15 @@
+{
+  "Index": {
+    "website": "Sitio Web Personal",
+    "phone": "Telefono",
+    "skills": "Habilidades",
+    "description": "Genero: Masculino, Edad: 36 años",
+    "profile": "Perfil",
+    "education": "Formación Académica",
+    "employment": "Experiencia Laboral",
+    "profile1": "Soy un desarrollador web en el stack MERNT con +4 años de experiencia. Estoy especializado en la creacion de apps frontend en tiempo real usando el ecosistema de React.",
+    "profile2": "Ademas poseo conocimientos para trabajar en el backend en aplicaciones creadas con nodejs, express y las dependencias asociadas para enriquecer este framework backend minimalista.",
+    "profile3": "En cuanto a la persistencia de los datos acostumbro a trabajar en el ecosistema de mongoDB Atlas almacenando la datos sensibles de los usuarios en la nube en formato de documentos nosql.",
+    "profile4": "Se mantener conversaciones fluidas en ingles en aquellas situaciones donde el cliente no hable el idioma español."
+  }
+}
