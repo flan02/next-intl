@@ -1,0 +1,27 @@
+{
+  "Index": {
+    "name": "{name}",
+    "website": "Site Pessoal",
+    "phone": "Telefone",
+    "skills": "Habilidades",
+    "description": "Gênero: Masculino, Idade: 36 anos",
+    "profile": "Perfil",
+    "education": "Formação Acadêmica",
+    "employment": "Experiência Profissional",
+    "profile1": "Sou um desenvolvedor web no stack MERNT com mais de 4 anos de experiência. Estou especializado na criação de apps frontend em tempo real usando o ecossistema React.",
+    "profile2": "Além disso, possuo sólidos conhecimentos para desenvolver no backend em aplicações que utilizam nodejs, express e as dependências associadas para enriquecer este framework backend minimalista.",
+    "profile3": "Em relação à persistência dos dados, costumo trabalhar no ecossistema MongoDB Atlas, armazenando dados sensíveis dos usuários na nuvem em formato de documentos NoSQL.",
+    "profile4": "Consigo manter conversas fluidas em inglês em situações onde o cliente não fala espanhol.",
+    "education1": "Ensino Médio: Instituto Maria Mazzarello. 2004-2006",
+    "education2": "Inglês nível B2 Instituto Cambridge. 2001-2005",
+    "education3": "JavaScript ES6+ Essencial I & II. Cisco Networking Academy (online). 2018",
+    "education4": "Curso de Programação: Argentina Programa 4.0 Governo da Nação. 2020-2021",
+    "education5": "Desenvolvedor Frontend React. Universidade Tecnológica Nacional (UTN). 2022",
+    "education6": "DB Administrador MongoDB Atlas. MongoDB University (online). 2023",
+    "employment1": "Frontend Developer com JavaScript & SASS no Club Argentino Castelar. 08/2018 - 11/2019",
+    "employment2": "React Developer na Federação FEBAMBA de Basquetebol. 05/2020 - 12/2021",
+    "employment3": "Nextjs Developer na Picnic, aplicação de comidas e delivery. 01/2022 - 12/2022",
+    "employment4": "Administro meu próprio site dedicado a fãs do Boston Celtics. 12/2020 - Presente (2024)",
+    "employment5": "Frontend Developer com TypeScript, React, Framer Motion desenvolvendo apps para Web 3.0. 04/2023 - Presente (2024)"
+  }
+}

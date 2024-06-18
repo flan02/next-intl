@@ -1,5 +1,6 @@
 {
   "Index": {
+    "name": "{name}",
     "website": "Portfolio Website",
     "phone": "Phone",
     "skills": "Skills",
@@ -9,13 +10,18 @@
     "employment": "Employment History",
     "profile1": "Fullstack Web Developer with over 4+ years of experience in programming through different companies in IT. I use to develop MERNT stack creating beautiful websites and experiences for users in real time.",
     "profile2": "I have strong backend skills creating servers, middlewares, routes, APIs with nodejs and expressjs. When it comes to persis user's data I usually work with nosql database MongoDB Atlas Cloud environment.",
-    "profile3": "My native tongue is Spanish but I'm fluent in English as well. I have experience working remotely with customers from EE.UU. having meeting for a long time speaking English. As a highly motivated, professional and organized person, I enjoy a fast-paced and collaborative team environments.",
-    "profile4": "I'm feel ready to take the next big step in my career and I&apos;m seeking for a remotely job in a foreing company that allow me grow up as a programmer and being a better human.",
-    "education1": "",
-    "education2": "",
-    "education3": "",
-    "education4": "",
-    "education5": "",
-    "education6": ""
+    "profile3": "My native tongue is Spanish but I'm fluent in English as well. I have experience working remotely with customers from EE.UU. having meeting for a long time speaking English. As a highly motivated and organized person, I enjoy a fast-paced, collaborative team environments.",
+    "profile4": "I'm feel ready to take the next big step in my career and I'm seeking for a remotely job in a foreing company that allow me grow up as a programmer and being a better human.",
+    "education1": "High School degree: Maria Mazzarello Institute. Argentina 2004-2006",
+    "education2": "English Certificate B2 Cambridge Institute. Argentina 2001-2005",
+    "education3": "Javascript ES6+ Essencial I & II. Cisco Networking Academy (online). 2019-2020",
+    "education4": "React course Argentina Programa 4.0. Gobierno de la ciudad de Buenos Aires. 2020-2021",
+    "education5": "React Frontend Developer course. UTN (Universidad Tecnologica Nacional). 2022",
+    "education6": "Database Admin Manager. MongoDB University (online). 2023",
+    "employment1": "FrontEnd developer with Javascript in Club Argentino Castelar. 08/2018 to 11/2019",
+    "employment2": "React Developer in Federacion de Basquet Argentino. 05/2020 to 12/2021",
+    "employment3": "Nextjs Developer in Picnic App for stores and delivery food. 01/2022 to 12/2022",
+    "employment4": "I managed my own site for boston celtics fans. 12/2020 to Present (2024)",
+    "employment5": "FrontEnd dev with typescript, react, framermotion, figma developing apps for web 3.0 project. 03/2023 to Present (2024)"
   }
 }

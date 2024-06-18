@@ -2,25 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
-h3 {
-  font-weight: 900;
-  font-size: 18px;
-  padding-left: 10px;
-}
 
-ul > li {
+html {
   font-size: 16px;
-  padding-left: 16px;
 }
 
-p {
-  padding-left: 16px;
+/* Chrome styling for scrollbar */
+::-webkit-scrollbar {
+  width: 10px; /* Ancho del scroll */
 }
 
-a {
-  padding-left: 16px;
+/* bar styling */
+::-webkit-scrollbar-thumb {
+  background-color: rgb(20, 21, 26);
+  border-radius: 5px; /* Borde redondeado */
 }
 
-a:hover {
-  text-decoration: underline;
+/* track bar styling */
+::-webkit-scrollbar-track {
+  background-color: rgb(105, 167, 238);
 }
