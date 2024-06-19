@@ -1,5 +1,13 @@
+import { Metadata } from 'next';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
+
+const metadata: Metadata = {
+  title: 'Multi-language | Curriculum',
+  description: 'Developed by Dan Chanivet'
+};
+
+export { metadata };
 
 export default async function LocaleLayout({
   children,

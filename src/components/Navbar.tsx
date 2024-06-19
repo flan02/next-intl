@@ -1,13 +1,14 @@
 'use client'
 
 import { useState } from "react";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import ReactFlagsSelect from "react-flags-select";
 
 type Props = {}
 
 
 const Navbar = (props: Props) => {
+
   const [selected, setSelected] = useState('');
   const router = useRouter();
 
