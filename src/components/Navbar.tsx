@@ -27,7 +27,7 @@ const Navbar = (props: Props) => {
     router.push(`/${code.toLowerCase()}`)
   }
   return (
-    <header className="lg:w-[1000px] md:w-[768px] sm:w-[640px] min-w-[400px] mx-auto">
+    <header className="lg:w-[1000px] md:w-[768px] sm:w-[640px] min-w-[350px] mx-auto">
       <ReactFlagsSelect
         countries={["MX", "US", "BR", "FR", "JP", "DE"]}
         customLabels={{ US: "EN-US", BR: "PO-BR", MX: "LAT-MX", FR: "FR-FR", JP: "JP-JP", DE: "GER-DE" }}
