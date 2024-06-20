@@ -4,7 +4,7 @@ import { getMessages } from 'next-intl/server';
 
 const metadata: Metadata = {
   title: 'Multi-language | Curriculum',
-  description: 'Developed by Dan Chanivet'
+  description: 'Built with nextjs by Dan Chanivet'
 };
 
 export { metadata };
