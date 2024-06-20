@@ -1,0 +1,27 @@
+{
+  "Index": {
+    "name": "{name}",
+    "website": "個人ウェブサイト",
+    "phone": "電話",
+    "skills": "スキル",
+    "description": "性別: 男性, 年齢: 36歳",
+    "profile": "プロフィール",
+    "education": "学歴",
+    "employment": "職務経験",
+    "profile1": "私は4年以上の経験を持つMERNTスタックのWeb開発者です。Reactエコシステムを使用してリアルタイムのフロントエンドアプリを作成することに特化しています。",
+    "profile2": "さらに、最小限のバックエンドフレームワークを強化するために、nodejs、express、および関連する依存関係を使用するアプリケーションでバックエンドを開発するための堅実な知識を持っています。",
+    "profile3": "データの永続性に関しては、MongoDB Atlasエコシステムで作業することに慣れており、ユーザーの機密データをクラウドにNoSQLドキュメント形式で保存しています。",
+    "profile4": "クライアントがスペイン語を話さない状況でも、英語で流暢に会話することができます。",
+    "education1": "高校: Maria Mazzarello学院. 2004-2006",
+    "education2": "英語レベルB2 Cambridge学院. 2001-2005",
+    "education3": "JavaScript ES6+ エッセンシャルI & II. Cisco Networking Academy (オンライン). 2018",
+    "education4": "プログラミングコース: Argentina Programa 4.0 国立政府. 2020-2021",
+    "education5": "フロントエンド開発者React. 国立工科大学 (UTN). 2022",
+    "education6": "DB管理者MongoDB Atlas. MongoDB大学 (オンライン). 2023",
+    "employment1": "フロントエンド開発者 JavaScript & SASS Club Argentino Castelar. 08/2018 - 11/2019",
+    "employment2": "React開発者 Federacion FEBAMBA バスケットボール連盟. 05/2020 - 12/2021",
+    "employment3": "Nextjs開発者 Picnic, 食品とデリバリーアプリ. 01/2022 - 12/2022",
+    "employment4": "ボストンセルティックスのファン専用ウェブサイトを管理. 12/2020 - 現在 (2024)",
+    "employment5": "フロントエンド開発者 TypeScript, React, Framer Motion web3.0アプリを開発. 04/2023 - 現在 (2024)"
+  }
+}

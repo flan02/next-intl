@@ -1,0 +1,29 @@
+
+  {
+    "Index": {
+      "name": "{name}",
+      "website": "Site Web Personnel",
+      "phone": "Téléphone",
+      "skills": "Compétences",
+      "description": "Genre : Masculin, Âge : 36 ans",
+      "profile": "Profil",
+      "education": "Formation Académique",
+      "employment": "Expérience Professionnelle",
+      "profile1": "Je suis un développeur web dans le stack MERNT avec plus de 4 ans d'expérience. Je suis spécialisé dans la création d'applications frontend en temps réel en utilisant l'écosystème React.",
+      "profile2": "De plus, j'ai de solides connaissances pour développer en backend sur des applications utilisant nodejs, express et les dépendances associées pour enrichir ce framework backend minimaliste.",
+      "profile3": "En ce qui concerne la persistance des données, j'ai l'habitude de travailler dans l'écosystème mongoDB Atlas en stockant les données sensibles des utilisateurs dans le cloud sous forme de documents nosql.",
+      "profile4": "Je sais tenir des conversations fluides en anglais dans les situations où le client ne parle pas espagnol.",
+      "education1": "Lycée : Institut Maria Mazzarello. 2004-2006",
+      "education2": "Anglais niveau B2 Institut Cambridge. 2001-2005",
+      "education3": "Javascript ES6+ Essentiel I & II. Cisto Networking Academy (en ligne). 2018",
+      "education4": "Cours de Programmation : Argentina Programa 4.0 Gouvernement National. 2020-2021",
+      "education5": "Développeur Frontend React. Université Technologique Nationale (UTN). 2022",
+      "education6": "Administrateur de base de données mongodb Atlas. MongoDB University (en ligne). 2023",
+      "employment1": "Développeur Frontend avec javascript & SASS au Club Argentino Castelar. 08/2018 - 11/2019",
+      "employment2": "Développeur React à la Fédération FEBAMBA de Basket-ball. 05/2020 - 12/2021",
+      "employment3": "Développeur Nextjs chez Picnic, application de repas et livraison. 01/2022 - 12/2022",
+      "employment4": "Je gère mon propre site web dédié aux fans des Boston Celtics. 12/2020 - Présent (2024)",
+      "employment5": "Développeur Frontend avec typescript, react, framermotion développant des applications pour le web3.0. 04/2023 - Présent (2024)"
+    }
+  }
+

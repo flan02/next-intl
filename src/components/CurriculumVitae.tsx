@@ -50,7 +50,7 @@ const CurriculumVitae = ({ person }: Props) => {
 
   // {t('')}
   return (
-    <main className='lg:w-[1000px] md:w-[768px] sm:w-[640px] min-w-[470px] mx-auto overflow-x-hidden'>
+    <main className='lg:w-[1000px] md:w-[768px] sm:w-[640px] min-w-[400px] mx-auto overflow-x-hidden'>
       <article className='h-max-h-full md:h-[94vh] grid grid-cols-12 border border-gray-400'>
 
         <Aside open={open} />
@@ -58,16 +58,16 @@ const CurriculumVitae = ({ person }: Props) => {
         <section className="col-span-12 md:col-span-8 bg-blue-300 overflow-y-auto">
           <div className='flex justify-between mt-2'>
             <div className='ml-2 mt-2 space-y-2'>
-              <h1 className='font-bold text-4xl pl-2 underline'>{t('name', { name: person.firstName + " " + person.lastName })}</h1>
-              <h2 className='text-lg pl-2'>Argentina {'>'} Buenos Aires</h2>
+              <h1 className='font-bold text-3xl pb-2 md:pb-0 md:text-4xl pl-2 underline'>{t('name', { name: person.firstName + " " + person.lastName })}</h1>
+              <h2 className='text-md md:text-lg pl-2'>Argentina {'>'} Buenos Aires</h2>
               <h6 className='text-sm pl-2'>{t('description')}</h6>
             </div>
-            <span className='hover:text-white mt-3'><Burguer toggle={toggle} /></span>
+            <span className='hover:text-white mt-2.5'><Burguer toggle={toggle} /></span>
             <Image src={yo} alt='Dan Chanivet' width={100} height={100} className='border border-transparent hover:border hover:border-black mr-2 rounded-full w-auto h-auto' />
           </div>
           <br />
           <div className='space-y-4 md:space-y-2'>
-            <h2 className='font-bold text-2xl pl-4 '>{t('profile')}</h2>
+            <h2 className='font-bold text-2xl pl-4 -mt-2 md:mt-0'>{t('profile')}</h2>
             <p className='pl-4 pr-4 text-sm'>{t('profile1')}</p>
             <p className='pl-4 pr-4 text-sm'>{t('profile2')}</p>
             <p className='pl-4 pr-4 text-sm'>{t('profile3')}</p>

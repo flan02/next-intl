@@ -1,0 +1,27 @@
+{
+  "Index": {
+    "name": "{name}",
+    "website": "Persönliche Webseite",
+    "phone": "Telefon",
+    "skills": "Fähigkeiten",
+    "description": "Geschlecht: Männlich, Alter: 36 Jahre",
+    "profile": "Profil",
+    "education": "Akademische Ausbildung",
+    "employment": "Berufserfahrung",
+    "profile1": "Ich bin ein Webentwickler im MERNT-Stack mit über 4 Jahren Erfahrung. Ich bin spezialisiert auf die Erstellung von Echtzeit-Frontend-Apps mit dem React-Ökosystem.",
+    "profile2": "Darüber hinaus habe ich fundierte Kenntnisse in der Backend-Entwicklung von Anwendungen mit nodejs, express und den damit verbundenen Abhängigkeiten, um dieses minimalistische Backend-Framework zu erweitern.",
+    "profile3": "In Bezug auf die Datenspeicherung arbeite ich oft mit dem MongoDB Atlas-Ökosystem und speichere die sensiblen Benutzerdaten in der Cloud im NoSQL-Dokumentenformat.",
+    "profile4": "Ich kann fließend Englisch sprechen in Situationen, in denen der Kunde kein Spanisch spricht.",
+    "education1": "Sekundarschule: Institut Maria Mazzarello. 2004-2006",
+    "education2": "Englisch Niveau B2 Cambridge-Institut. 2001-2005",
+    "education3": "JavaScript ES6+ Essential I & II. Cisco Networking Academy (online). 2018",
+    "education4": "Programmierungskurs: Argentina Programa 4.0 Regierung der Nation. 2020-2021",
+    "education5": "Frontend-Entwickler React. Nationale Technologische Universität (UTN). 2022",
+    "education6": "DB-Administrator MongoDB Atlas. MongoDB University (online). 2023",
+    "employment1": "Frontend-Entwickler mit JavaScript & SASS im Club Argentino Castelar. 08/2018 - 11/2019",
+    "employment2": "React-Entwickler bei der Federación FEBAMBA de Basquetball. 05/2020 - 12/2021",
+    "employment3": "Nextjs-Entwickler bei Picnic, einer Lebensmittel- und Lieferanwendung. 01/2022 - 12/2022",
+    "employment4": "Ich betreibe meine eigene Webseite für Fans der Boston Celtics. 12/2020 - Gegenwart (2024)",
+    "employment5": "Frontend-Entwickler mit TypeScript, React, Framer Motion und entwickle Apps für Web 3.0. 04/2023 - Gegenwart (2024)"
+  }
+}
