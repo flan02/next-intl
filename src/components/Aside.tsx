@@ -37,7 +37,7 @@ const Aside = (props: Props) => {
   return (
     <aside className={`${props.open ? 'block' : 'hidden'} space-y-1 absolute order-2 mt-24 md:mt-0 text-xs md:text-md md:relative md:block md:col-span-4 bg-gray-800 text-blue-400`}>
       <h3 className='font-bold text-xl md:text-2xl pl-2 mt-2'>{t('website')}</h3>
-      <a href="https://www.chanivetdan.tech" target='_blank' className='text-white pl-4 text-md md:text-lg hover:underline'>https://www.danchanivet.tech</a>
+      <a href="https://www.danchanivet.tech" target='_blank' className='text-white pl-4 text-md md:text-lg hover:underline'>https://www.danchanivet.tech</a>
       <h3 className='font-bold text-xl md:text-2xl pl-2'>Email</h3>
       <p className='pl-3 text-md md:text-lg'>chanivetdan@hotmail.com</p>
       <h3 className='font-bold text-xl md:text-2xl pl-2'>{t('phone')}</h3>
