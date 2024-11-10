@@ -4,7 +4,25 @@ import { getMessages } from 'next-intl/server';
 
 const metadata: Metadata = {
   title: 'Multi-language | Curriculum',
-  description: 'Built with nextjs by Dan Chanivet'
+  description: 'Built with nextjs by Dan Chanivet',
+  metadataBase: new URL('https://www.danchanivet.me'),
+  openGraph: {
+    title: 'Mi Proyecto en Open Graph',
+    description: 'Descripción para Open Graph',
+    images: [
+      {
+        url: '/opengraph-image.png',
+        width: 800,
+        height: 600,
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Mi Project on Twitter',
+    description: 'Twitter',
+    images: ['/opengraph-image.png'],
+  },
 };
 
 export { metadata };
