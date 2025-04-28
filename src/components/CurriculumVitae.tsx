@@ -65,16 +65,17 @@ const CurriculumVitae = ({ person }: Props) => {
 
           <Aside open={open} />
 
-          <section className="col-span-12 md:col-span-8 bg-emerald-100 overflow-y-auto overflow-x-hidden">
+          <section className="col-span-12 md:col-span-8 bg-yellow-100 overflow-y-auto overflow-x-hidden"> {/* CHANGE BACKGROUND HERE */}
 
             <div className='flex justify-between mt-2'>
               <div className='ml-2 mt-2 space-y-2'>
-                <h1 className='font-bold text-2xl pb-2 md:pb-0 md:text-4xl pl-2 underline'>{t('name', { name: person.firstName + " " + person.lastName })}</h1>
-                <h2 className='text-sm md:text-lg xl:text-xl pl-2'>Ubicacion: Buenos Aires, Argentina</h2>
+                <h1 className='font-bold text-lg pb-2 md:pb-0 md:text-2xl pl-2 underline'>{t('title')}</h1>
+                <h2 className='text-sm pb-2 md:pb-0 md:text-lg xl:text-lg pl-2'>{t('name', { name: person.firstName + " " + person.lastName })}</h2>
+                <h3 className='text-sm md:text-lg xl:text-lg pl-2'>{t('location')}: Buenos Aires, Argentina</h3>
                 <h6 className='text-[10px] pl-2 xl:text-lg'>{t('description')}</h6>
               </div>
               <span className='hover:text-white mt-2'><Burguer toggle={toggle} /></span>
-              <Image src={yo} alt='Dan Chanivet' width={100} height={100} className='object-contain border border-transparent hover:border hover:border-black mr-2 rounded-full w-auto h-auto' />
+              <Image src={yo} alt='Dan Chanivet' width={100} height={100} className='object-cover border-black border-2 mr-2 aspect-square w-auto h-auto' />
             </div>
             <br />
             <div className='space-y-4 md:space-y-2'>
@@ -102,28 +103,29 @@ const CurriculumVitae = ({ person }: Props) => {
                 <li className="ml-4 mt-1 text-md">{t('education6')}</li>
                 <li className="ml-4 mt-1 text-md">{t('education7')}</li>
                 <li className="ml-4 mt-1 text-md">{t('education8')}</li>
+                <li className="ml-4 mt-1 text-md">{t('education9')} <a className='text-blue-400 underline' href='https://www.danchanivet.tech/certifications' target='_blank'>https://www.danchanivet.tech/certifications</a></li>
               </ul>
+
               <br />
 
 
               <h2 className='font-bold text-3xl pl-4 pb-2'>{t('language')}</h2>
 
               <ul className='space-y-4 '>
-                <li className="ml-4 mt-1 text-md ">{t('language1')}</li>
-                <li className="ml-4 mt-1 text-md">{t('language2')}</li>
-
+                <li className="ml-4 mt-1 text-md ">{t('language1')} | {t('language2')}</li>
               </ul>
               <br />
 
 
               <h2 className='font-bold text-3xl pl-4 pb-2'>{t('employment')}</h2>
 
-              <ul className='space-y-4 '>
+              <ul className='space-y-4 pr-1'>
                 <li className="ml-4 mt-1 text-md">{t('employment1')}</li>
                 <li className="ml-4 mt-1 text-md">{t('employment2')}</li>
                 <li className="ml-4 mt-1 text-md">{t('employment3')}</li>
-                <li className="ml-4 pr-4 text-md"> <a href='https://www.2kceltics.xyz' target="_blank" className='-pl-4 text-md hover:underline'>www.2kceltics.xyz</a>. {t('employment4')}</li>
+                <li className="ml-4 pr-4 text-md">{t('employment4')} <a href='https://www.2kceltics.xyz' target="_blank" className='-pl-4 text-md text-blue-400 underline'>https://www.2kceltics.xyz</a></li>
                 <li className="ml-4 mt-1 text-md">{t('employment5')}</li>
+                <li className="ml-4 mt-1 text-md">{t('employment6')} <a href='https://www.danchanivet.tech/projects' target="_blank" className='-pl-4 text-md text-blue-400 underline'>https://www.danchanivet.tech/projects</a></li>
               </ul>
               <br />
 

@@ -36,6 +36,6 @@ export const handleDownloadPDF = async (curriculumRef: RefObject<HTMLDivElement>
       heightLeft -= pageHeight;
     }
 
-    pdf.save("mern-cv2024-dan_chanivet.pdf");
+    pdf.save("mern-cv2025-dan_chanivet.pdf");
   }
 };
